@@ -8,6 +8,8 @@ packages = [{include = "pyoptbook", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pandas = "^2.2.2"
+pulp = "^2.8.0"
 
 
 [build-system]
